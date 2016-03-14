@@ -1,6 +1,7 @@
 # Upload-Images-to-Server 
 The php file will allow the user to upload multiple files to the server.
-In my case, I can only upload 50 files or less, their file size must be under 2048 megabytes.
+
+In my case, I can only upload 50 files or less, the total files size must be under 2048 megabytes.
 
 To upload larger files, change these values in php.ini file (If you're using Apache, the file is at /etc/php5/apache2/php.ini)
 
